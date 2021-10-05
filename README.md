@@ -9,5 +9,6 @@ Custom design built in HTML, CSS, and JS! The functionality for this expense tra
 - Delete items from DOM
 
 The project looks like this 👇
+[Play with it!](https://atalle.github.io/expense-tracker/)
 <img width="1419" alt="Screen Shot 2021-10-04 at 9 58 16 PM" src="https://user-images.githubusercontent.com/66145951/135958337-9656bad4-462b-44de-a3d5-c26d470d6373.png">
 
